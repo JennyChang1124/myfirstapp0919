@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc63cff-d665-4568-8158-3e7617c1fffa" name="Changes" comment="myfirstapp_0921" />
+    <list default="true" id="0bc63cff-d665-4568-8158-3e7617c1fffa" name="Changes" comment="myfirstapp_0919">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,10 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/README.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/main.dart" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2EyPhuMqCi0wMROWEtyYPcgUXFx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -177,7 +183,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664361155041</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="myfirstapp_0921">
+      <created>1664361457907</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664361457907</updated>
+    </task>
+    <task id="LOCAL-00018" summary="myfirstapp_0921">
+      <created>1664362046265</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1664362046265</updated>
+    </task>
+    <task id="LOCAL-00019" summary="myfirstapp_0919">
+      <created>1664362098055</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1664362098055</updated>
+    </task>
+    <task id="LOCAL-00020" summary="myfirstapp_0919">
+      <created>1664362840556</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664362840556</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +229,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit_0919" />
     <MESSAGE value="myfirstapp_0921" />
-    <option name="LAST_COMMIT_MESSAGE" value="myfirstapp_0921" />
+    <MESSAGE value="myfirstapp_0919" />
+    <option name="LAST_COMMIT_MESSAGE" value="myfirstapp_0919" />
   </component>
 </project>
